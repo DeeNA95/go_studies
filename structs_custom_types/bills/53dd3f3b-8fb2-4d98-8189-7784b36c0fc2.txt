@@ -1,0 +1,11 @@
+
+
+Bill Name: df
+Bill ID: 53dd3f3b-8fb2-4d98-8189-7784b36c0fc2
+Bill Date: 2025-04-15 10:54:14
+Bill Total: 232.00
+Bill Paid: No
+Bill Paid Date: Not Paid
+Bill Items: 
+3                        232.00
+

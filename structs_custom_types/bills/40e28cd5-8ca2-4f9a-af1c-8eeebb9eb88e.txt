@@ -1,0 +1,11 @@
+
+
+Bill Name: de
+Bill ID: 40e28cd5-8ca2-4f9a-af1c-8eeebb9eb88e
+Bill Date: 2025-04-15 10:52:26
+Bill Total: 33.00
+Bill Paid: No
+Bill Paid Date: Not Paid
+Bill Items: 
+d                        33.00
+
